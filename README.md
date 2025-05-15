@@ -4,6 +4,7 @@ This project uses logistic regression and generalized linear models to predict w
 
 ## 📁 Files
 - `STAT448_Group2_FinalProjectReport.pdf`: Full report with EDA, modeling, and conclusions
+- `STAT448_Group2_FinalProjectCode.sas`: Full SAS code file
 
 ## 🔍 Project Summary
 
